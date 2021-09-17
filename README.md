@@ -4,9 +4,7 @@
 
 ![Portfolio Website]()
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
-
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
+This is a code repository for the a portfolio website I created for myself. I used React, Next.js and styled components. If you click on Live Site above you will be taken to the live version of this website that I hosted on netlify, There you can find other of my works in React and javascript which includes a movie application.
 
 Setup:
-- run ```npm i && npm start```
+- run ```npm i && npm run dev``` Or you can run ```npm i && npm start```
